@@ -1,0 +1,6 @@
+#+TITLE: file share tool
+
+* Summary
+
+This tool is used to share file between two nodes in a decentralizes way. Decentralizing avoids problems in server.
+
